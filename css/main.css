@@ -21,3 +21,39 @@ span:lang(cn) {
   text-decoration: underline;
   background-color: transparent;
 }
+
+
+
+.people-pic {
+  max-width: 125px;
+  max-height: 125px;
+  border-radius: 125px;
+}
+
+.people-name {
+  margin: 10px 0 10px;
+}
+
+.people-name h6 {
+  margin: 4px 0;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+@media (max-width:1000px) {
+  div.speaker img.people-pic {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  .people-pic {
+    max-width: 65px;
+    max-height: 65px;
+  }
+  .people-name {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .people-name h6 {
+    font-size: 9px;
+  }
+}
