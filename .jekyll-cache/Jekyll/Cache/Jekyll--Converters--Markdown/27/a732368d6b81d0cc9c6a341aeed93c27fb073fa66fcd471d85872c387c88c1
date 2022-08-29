@@ -1,0 +1,52 @@
+I"<p>We invite researchers in machine learning and statistics to submit their latest work to the NeurIPS 2022 workshop on score-based methods.</p>
+
+<h1 id="topics">topics</h1>
+
+<p>We encourage submissions that relate (but not limited) to the following topics:</p>
+
+<ul>
+  <li>Foundations and methodologies of score-based methods
+    <ul>
+      <li>generative modeling (score-based generative models, diffusion models, etc.)</li>
+      <li>differential equations</li>
+      <li>probabilistic inference, e.g. MCMC, variational inference</li>
+      <li>optimal transport</li>
+      <li>gradient estimation, control variates</li>
+      <li>Stein’s method</li>
+    </ul>
+  </li>
+  <li>Applications of score-based methods
+    <ul>
+      <li>generation of images, video, audio, molecules, etc</li>
+      <li>scientific &amp; engineering applications</li>
+      <li>solving inverse problems, e.g. denoising, super-resolution, etc.</li>
+      <li>dynamical systems</li>
+      <li>hypothesis testing</li>
+      <li>causal discovery &amp; inference</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="key-dates">key dates</h1>
+
+<ul>
+  <li>Submission deadline: <strong>22 Sept 2022 (11:59 pm AOE)</strong></li>
+  <li>Acceptance notification: <strong>Oct 20, 2022</strong></li>
+  <li>Camera ready for accepted submissions: <strong>Nov 25, 2022</strong></li>
+</ul>
+
+<h1 id="submission-details">submission details</h1>
+
+<p>We invite researchers to submit their recent work on the development, analysis, or application of score-based methods. A submission should take the form of a short paper of <strong>4 pages in PDF</strong> format using the <strong><a href="https://score-based-methods-workshop.github.io/pmlr/Score_based_method_workshop_latex.zip">template</a></strong>. Additional pages containing references and appendices are allowed. For questions and troubleshooting of the template, visit CTAN.</p>
+
+<p>The review process will be double-blind. Author names need to be anonymized and references/appendices may extend as far as needed beyond the <strong>4-page upper limit</strong>. Submissions may include a supplement/appendix, but reviewers are not responsible for reading any supplementary material.</p>
+
+<p>All accepted submissions will be accompanied by a poster presentation. A number of selected papers will also be invited for a contributed oral presentation.</p>
+
+<p><strong>Dual submission policy</strong>: If a paper has previously appeared in a journal, workshop, or conference (including the NeurIPS 2022 conference), it should be extended in order to be accepted at our workshop. If a paper is currently under review (e.g. in AISTATS 2023 or ICLR 2023), it can still be submitted to this workshop.</p>
+
+<p>The submission website is on <strong><a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/SBM">OpenReview</a></strong>. Camera-ready versions are due by <strong>Nov 25, 2022</strong>, and will be posted on the workshop website.</p>
+
+<h1 id="questions">questions?</h1>
+<p>Contact us at <a href="mailto:scorebased.workshop@gmail.com">scorebased.workshop@gmail.com</a>.</p>
+:ET
