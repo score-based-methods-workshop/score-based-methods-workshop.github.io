@@ -35,7 +35,7 @@ We encourage submissions that relate (but not limited) to the following topics:
 
 # submission details
 
-We invite researchers to submit their recent work on the development, analysis, or application of score-based methods. A submission should take the form of a short paper of **4 pages in PDF** format using the **[template](https://score-based-methods-workshop.github.io/pmlr/Score_based_method_workshop_latex.zip)**. Additional pages containing references and appendices are allowed. For questions and troubleshooting of the template, visit CTAN.
+We invite researchers to submit their recent work on the development, analysis, or application of score-based methods. A submission should take the form of a short paper of **4 pages in PDF** format using the **[template](/assets/templates/SBM_template.zip)**. Additional pages containing references and appendices are allowed. For questions and troubleshooting of the template, visit CTAN.
 
 The review process will be double-blind. Author names need to be anonymized and references/appendices may extend as far as needed beyond the **4-page upper limit**. Submissions may include a supplement/appendix, but reviewers are not responsible for reading any supplementary material.
 
