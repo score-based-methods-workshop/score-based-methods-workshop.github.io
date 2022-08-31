@@ -14,7 +14,7 @@ Score-based methods have had a significant impact on vastly disjointed subfields
 
 At our workshop, we will bring together researchers from these various subfields to discuss the success of score-based methods, and identify common challenges across different research areas. We will also explore the potential for applying score-based methods to even more real-world applications, including in computer vision, signal processing, and computational chemistry. By doing so, we hope to folster collaboration among researchers and build a more cohesive research community focused on score-based methods.
 
-This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.cc/), taking place on **Dec 2nd 2022 (tentative)**. The session will cover invited talks, contributed talks and posters.
+This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.cc/), taking place on **Dec 2nd 2022 (tentative)**. The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
 # key dates
 
