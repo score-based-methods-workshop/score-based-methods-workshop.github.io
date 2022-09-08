@@ -66,6 +66,9 @@ This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.c
       <div class="col-sm-4">
         {% include people.html name="Qiang Liu" affiliation="University of Texas at Austin" img="assets/img/people/qiang.jpeg" url="https://www.cs.utexas.edu/~lqiang/" %}
       </div>
+      <div class="col-sm-4">
+        {% include people.html name="Mark Chen" affiliation="OpenAI" img="assets/img/people/mark.jpeg" url="https://scholar.google.com/citations?user=5fU-QMwAAAAJ&hl=en" %}
+      </div>
   </div>
 
 # organizers
