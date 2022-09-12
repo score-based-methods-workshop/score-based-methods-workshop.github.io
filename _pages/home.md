@@ -8,6 +8,11 @@ permalink: /
 description: A workshop to bring together researchers who use score-based methods in machine learning and statistics. 
 ---
 
+<h5 style="text-align:center;"><a href="https://neurips.cc/Register2">[click here for registration]</a></h5>
+<h5 style="text-align:center;"><a href="https://forms.gle/Zk9owxUBPf54DRnYA">[click here to submit your questions to our panelists]</a></h5>
+
+# introduction
+
 The **score function**, which is the gradient of the log-density, provides a unique way to represent probability distributions. By working with distributions through score functions, researchers have been able to develop efficient tools for machine learning and statistics, collectively known as **score-based methods**. 
 
 Score-based methods have had a significant impact on vastly disjointed subfields of machine learning and statistics, such as generative modeling, Bayesian inference, hypothesis testing, control variates and Stein’s methods. For example, score-based generative models, or denoising diffusion models, have emerged as the state-of-the-art technique for generating high quality and diverse images. In addition, recent developments in Stein’s method and score-based approaches for stochastic differential equations (SDEs) have contributed to the developement of fast and robust Bayesian posterior inference in high dimensions. These have potential applications in engineering fields, where they could help improve simulation models.
