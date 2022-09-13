@@ -84,7 +84,7 @@ This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.c
   {% include people_horizontal.html name="Valentin De Bortoli" affiliation="CNRS" url="https://vdeborto.github.io/" img="/assets/img/people/valentin.jpeg" %}              
   {% include people_horizontal.html name="François-Xavier Briol" affiliation="University College London" url="https://fxbriol.github.io/" img="assets/img/people/fxbriol.jpeg" %}    
   {% include people_horizontal.html name="Wenbo Gong" affiliation="Microsoft Research" img="assets/img/people/wenbo.jpeg" url="http://mlg.eng.cam.ac.uk/?portfolio=wenbo-gong" %}            
-  {% include people_horizontal.html name="Alexia Jolicoeur-Martineau" affiliation="Samsung Research" img="assets/img/people/alexia.jpeg" url="https://ajolicoeur.wordpress.com/about/" %}      
+  {% include people_horizontal.html name="Alexia Jolicoeur-Martineau" affiliation="Samsung — SAIT AI Lab, Montreal" img="assets/img/people/alexia.jpeg" url="https://ajolicoeur.wordpress.com/about/" %}      
   {% include people_horizontal.html name="Arash Vahdat" affiliation="NVIDIA Research" img="assets/img/people/arash.jpeg" url="http://latentspace.cc/" %}  
 </div>
 
