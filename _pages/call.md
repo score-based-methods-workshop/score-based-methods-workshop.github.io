@@ -29,7 +29,7 @@ We encourage submissions that relate (but not limited) to the following topics:
 
 # key dates
 
-* Submission deadline: **22 Sept 2022 (11:59 pm AOE)**
+* Submission deadline: **Sept 26, 2022 (11:59 pm AOE)**
 * Acceptance notification: **Oct 20, 2022**
 * Camera ready for accepted submissions: **Nov 25, 2022**
 

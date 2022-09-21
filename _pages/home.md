@@ -23,7 +23,7 @@ This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.c
 
 # key dates
 
-* Submission deadline: **22 Sept 2022 (11:59 pm AOE)**
+* Submission deadline: **Sept 26, 2022 (11:59 pm AOE)**
 
 * Acceptance notification: **Oct 20, 2022**
 
