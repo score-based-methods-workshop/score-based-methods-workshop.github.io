@@ -101,6 +101,10 @@ This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.c
 # contact
 For any questions, please contact us at [scorebased.workshop@gmail.com](mailto:scorebased.workshop@gmail.com).
 
+# sponsors
+[OpenAI](https://openai.com/) has generously agreed to sponsor around 6 workshop tickets for student from minority groups.
+Please fill in the [form](https://docs.google.com/forms/d/e/1FAIpQLSegnwUjVQbgUBo3kvDvTjULTcHTD5WS70fBUG1E22kAq9XxJA/viewform). 
+
 {% comment %}
 <div class="row justify-content-center">
     <div class="col-sm-2 pt-5 pb-5">
