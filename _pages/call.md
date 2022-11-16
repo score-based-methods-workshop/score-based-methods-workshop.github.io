@@ -45,5 +45,12 @@ All accepted submissions will be accompanied by a poster presentation. A number 
 
 The submission website is on **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/SBM)**. Camera-ready versions are due by **Nov 25, 2022**, and will be posted on the workshop website.
 
+# camera ready instructions
+
+Please replace `\usepackage{score_workshop}` in the preamble of your LaTeX source file with `\usepackage[final]{score_workshop}`. We highly suggest incorporating reviewer feedback when revising your paper. The camera ready submission should have a total of **4 pages**. Additional pages that contain only acknowledgements, references, and appendices are allowed. Please submit the camera ready paper on OpenReview via post-decision revision.
+
+For on-site poster presentation, please prepare one poster for each accepted submission. Since posters will be taped to the wall, they should be on light-weight paper, not laminated. Please make your posters 24W x 36H inches (NOT 36W x 48H), portrait. We unfortunately cannot support virtual poster presentations nor hybrid presentations.
+
+
 # questions?
 Contact us at [scorebased.workshop@gmail.com](mailto:scorebased.workshop@gmail.com).
