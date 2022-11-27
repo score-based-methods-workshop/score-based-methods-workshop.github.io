@@ -3,6 +3,7 @@ layout: page
 permalink: /cfp/
 title: call for papers
 nav: true
+nav_order: 3
 ---
 
 We invite researchers in machine learning and statistics to submit their latest work to the NeurIPS 2022 workshop on score-based methods.
