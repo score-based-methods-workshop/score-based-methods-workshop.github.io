@@ -29,7 +29,7 @@ This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.c
 
 * Camera ready for accepted submissions: **Nov 25, 2022**
 
-# confirmed speakers
+# keynote speakers
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Chenlin Meng" affiliation="Stanford University" url="https://chenlin9.github.io/" img="/assets/img/people/chenlin.png" %}
@@ -53,7 +53,7 @@ This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.c
   </div>
 
 
-# confirmed panelists
+# panelists
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Aapo Hyvärinen" affiliation="University of Helsinki" url="https://www.cs.helsinki.fi/u/ahyvarin/" img="/assets/img/people/aapo.jpeg" %}
@@ -102,8 +102,10 @@ This workshop will be an **in-person event** at [NeurIPS 2022](https://neurips.c
 For any questions, please contact us at [scorebased.workshop@gmail.com](mailto:scorebased.workshop@gmail.com).
 
 # sponsors
-[OpenAI](https://openai.com/) has generously agreed to sponsor around 6 workshop tickets for student from minority groups.
-Please fill in the [form](https://docs.google.com/forms/d/e/1FAIpQLSegnwUjVQbgUBo3kvDvTjULTcHTD5WS70fBUG1E22kAq9XxJA/viewform).
+* [OpenAI](https://openai.com/) has generously agreed to sponsor around 6 workshop tickets for student from minority groups. Please fill in the [form](https://docs.google.com/forms/d/e/1FAIpQLSegnwUjVQbgUBo3kvDvTjULTcHTD5WS70fBUG1E22kAq9XxJA/viewform).
+
+* [NVIDIA](https://www.nvidia.com/en-us/) has generously provided 2 GPUs as gifts for our awardees.
+
 
 {% comment %}
 <div class="row justify-content-center">
