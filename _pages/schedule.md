@@ -25,7 +25,7 @@ nav_order: 1
 | 14:50 | **Contributed talk**: Targeted Separation and Convergence with Kernel Discrepancies |
 | 15:00 | **Poster session** |
 | 15:55 | **Award announcement** |
-| 16:00 | **Keynote** (Chenlin Meng): TBD |
+| 16:00 | **Keynote** (Chenlin Meng): Score-Based Generative Models and Their Applications |
 | 16:30 | **Keynote** (Mohammad Norouzi): TBD |
 {: .table}
 {: .table-striped}
