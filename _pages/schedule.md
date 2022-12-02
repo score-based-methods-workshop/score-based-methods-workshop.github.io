@@ -26,6 +26,6 @@ nav_order: 1
 | 15:00 | **Poster session** |
 | 15:55 | **Award announcement** |
 | 16:00 | **Keynote** (Chenlin Meng): Score-Based Generative Models and Their Applications |
-| 16:30 | **Keynote** (Mohammad Norouzi): TBD |
+| 16:30 | **Keynote** (Mohammad Norouzi): Imagenary Patterns with Diffusion Models |
 {: .table}
 {: .table-striped}
